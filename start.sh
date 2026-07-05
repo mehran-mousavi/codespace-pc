@@ -1,0 +1,1 @@
+docker-compose -f windows10.yml up
